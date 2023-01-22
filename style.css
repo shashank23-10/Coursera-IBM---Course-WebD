@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: black;
+}
+.menu-bar {
+  display: flex;
+  background-color: wheat;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.menu-bar h3 {
+  margin-left: 2%;
+  margin-right: 20%;
+  font-size: 2rem;
+  font-family: "Josefin Sans", sans-serif;
+  font-style: oblique;
+  color: aqua;
+}
+.about {
+  margin: 2rem 15% 1rem 15%;
+  background-color: aliceblue;
+}
+.about h3 {
+  margin: 0rem 0% 1rem 42%;
+  padding-top: 1rem;
+  font-size: 2rem;
+}
+.about .paras {
+  margin: 0 2rem 0 2rem;
+  padding-bottom: 2rem;
+}
